@@ -1,7 +1,7 @@
 # Sales Savvy — Project Overview
 
 This document gives a **high-level summary** of the Sales Savvy e-commerce project, its **file structure**, **roles and responsibilities** of main components, and how to get started (including **Razorpay**).
-
+DEMO - https://drive.google.com/file/d/1Lnzrta8ZIOH26b8Z5WSN0USBp2yO17cY/view?usp=sharing
 ---
 
 ## High-Level Summary
